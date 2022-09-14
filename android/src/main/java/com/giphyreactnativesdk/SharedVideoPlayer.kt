@@ -6,4 +6,6 @@ object SharedVideoPlayer {
   fun mute() {}
 
   fun pause() {}
+
+  fun resume() {}
 }
